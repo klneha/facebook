@@ -10,7 +10,7 @@ import com.projectname.qa.Pages.Sign_up_page_fb;
 
 public class Test_class_sign_up_page extends TestBase {
 	
-	
+	//this is sign up page and i have succesfully pushed the file
 	@BeforeClass
 	public void browsersetup() {
 	 Crossbrowser("chrome");
