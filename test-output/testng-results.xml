@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[sign up button is clicked]]>
+    </line>
+    <line>
+      <![CDATA[sign up page logo is verified]]>
+    </line>
+    <line>
+      <![CDATA[sign up page tagline is verified]]>
+    </line>
+    <line>
+      <![CDATA[sign up page first name is send]]>
+    </line>
+    <line>
+      <![CDATA[sign up page last name is send]]>
+    </line>
+    <line>
+      <![CDATA[sign up page email is send]]>
+    </line>
+    <line>
+      <![CDATA[sign up button is submitted]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-26T22:57:28 IST" name="Default suite" finished-at="2022-08-26T22:57:35 IST" duration-ms="7572">
+    <groups>
+    </groups>
+    <test started-at="2022-08-26T22:57:28 IST" name="Default test" finished-at="2022-08-26T22:57:35 IST" duration-ms="7572">
+      <class name="com.projectname.qa.Test_class_sign_up_page">
+        <test-method is-config="true" signature="browsersetup()[pri:0, instance:com.projectname.qa.Test_class_sign_up_page@7133da86]" started-at="2022-08-26T22:57:28 IST" name="browsersetup" finished-at="2022-08-26T22:57:31 IST" duration-ms="3193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browsersetup -->
+        <test-method signature="navigational_steps_for_sign_up()[pri:0, instance:com.projectname.qa.Test_class_sign_up_page@7133da86]" started-at="2022-08-26T22:57:31 IST" name="navigational_steps_for_sign_up" finished-at="2022-08-26T22:57:33 IST" duration-ms="1943" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[sign up button is clicked]]>
+            </line>
+            <line>
+              <![CDATA[sign up page logo is verified]]>
+            </line>
+            <line>
+              <![CDATA[sign up page tagline is verified]]>
+            </line>
+            <line>
+              <![CDATA[sign up page first name is send]]>
+            </line>
+            <line>
+              <![CDATA[sign up page last name is send]]>
+            </line>
+            <line>
+              <![CDATA[sign up page email is send]]>
+            </line>
+            <line>
+              <![CDATA[sign up button is submitted]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- navigational_steps_for_sign_up -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.projectname.qa.Test_class_sign_up_page@7133da86]" started-at="2022-08-26T22:57:33 IST" name="teardown" finished-at="2022-08-26T22:57:35 IST" duration-ms="2412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.projectname.qa.Test_class_sign_up_page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
